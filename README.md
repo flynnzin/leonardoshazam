@@ -1,8 +1,13 @@
 ## Olá sou o cristopher leonardo
 
-- 👀 Hoje trabalho com c#
-- 🌱 Estudando flutter
-- 📫 Pronomes ele/dele
+- 💖 Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema.
+- 🤑 Foguete não tem ré! 🚀
+- 🙏 Sempre em busca dos meus objetivos !
+- 🤖 Buscando conhecimento aonde só ah escuridão ...
+- 🌱 Comecei tudo como jogador, e hoje, desenvolvo jogos ...
+- 💞️ Estudando Flutter ...
+- 👀 Foque em você! Porque quando você foca em Si! Você afeta a SI!
+- 📫 Contacte pelo email: Lzfts593@gmail.com ...
 
 <div align="center">
   <a href="https://github.com/leonardoshazam">
