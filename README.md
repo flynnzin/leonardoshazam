@@ -10,8 +10,8 @@
 - 📫 Contacte pelo email: Lzfts593@gmail.com ...
 
 <div align="center">
-  <a href="https://github.com/leonardoshazam/leonardoshazam">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoshazam&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/flynnzin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flynnzin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoshazam&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
